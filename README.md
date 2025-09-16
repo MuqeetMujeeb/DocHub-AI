@@ -44,7 +44,7 @@ DocHub-AI provides an all-in-one platform with five key features:
 ### Installation
 ```
 # Clone the repository
-git clone https://github.com/Sa1f27/DocHub-AI.git
+git clone https://github.com/MuqeetMujeeb/DocHub-AI.git
 cd DocHub-AI
 ```
 
